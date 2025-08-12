@@ -1,2 +1,1 @@
-# Ramana
-Python programs
+python programs
